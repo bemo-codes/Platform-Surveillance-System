@@ -49,3 +49,11 @@ Platform-Surveillance-System/
 ├── .gitignore
 ├── README.md
 └── Logs/
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/bemo-codes/Platform-Surveillance-System.git
+cd Platform-Surveillance-System
