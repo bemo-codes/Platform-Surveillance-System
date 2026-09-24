@@ -2,16 +2,6 @@
 
 A Python-based system monitoring and automation tool that periodically collects system information, generates detailed log files, and sends an email alert when CPU utilization reaches a defined threshold.
 
-## Demo
-
-### System Monitoring
-
-![System Monitoring](screenshots/monitoring.png)
-
-### CPU Alert Email
-
-![CPU Alert Email](screenshots/cpu-alert.png)
-
 ## Features
 
 - Monitors CPU utilization
