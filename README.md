@@ -1,5 +1,11 @@
 # Platform Surveillance System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-System%20Monitoring-orange)
+![Monitoring](https://img.shields.io/badge/System-Monitoring-green)
+![psutil](https://img.shields.io/badge/Library-psutil-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A Python-based system monitoring and automation tool that periodically collects system information, generates detailed log files, and sends an email alert when CPU utilization reaches a defined threshold.
 
 ## Features
