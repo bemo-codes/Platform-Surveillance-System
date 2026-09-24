@@ -51,7 +51,7 @@ def PlatformSurveillance(FolderName, ReceiverEmail):
     print(f"Log file gets successfully created with name {FileName}")
 
     fobj.write(Border+"\n")
-    fobj.write("---- Marvellous Platform Surveillance System ----\n")
+    fobj.write("---- Platform Surveillance System ----\n")
     fobj.write("Log file gets created at: " + timestamp + "\n")
     print(Border + "\n\n")
 
